@@ -1,0 +1,9 @@
+body {
+  font-family: 'Open sans', sans-serif;
+  overflow-y: scroll;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}

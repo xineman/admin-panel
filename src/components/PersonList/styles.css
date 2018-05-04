@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.title {
+  flex: 1 0 0;
+  margin: 0 5px;
+}
